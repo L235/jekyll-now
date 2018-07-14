@@ -18,15 +18,15 @@ avatar: https://l235.github.io/speakca/images/SPEAK-logo-lower-quality-1024x738.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: contact@speakca.org
   facebook:
   flickr:
   github:
-  instagram:
+  instagram: speakcentralacademy
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: #
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
