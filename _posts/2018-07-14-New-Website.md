@@ -11,4 +11,4 @@ The SPEAK team is hard at work this summer! The incoming leadership team¹ has b
 ²The old bloated website was hosted on a "rather unstable" server – it's a wonder it worked at all.
 
 <!--- Short author bio; didn't have the time to template it in: --->
-*[Kevin Li](https://kevinsli.com/) led SPEAK for the 2017-18 school year.*
+*[Kevin Li](https://kevinsli.com/) led SPEAK during the 2017-18 school year.*
